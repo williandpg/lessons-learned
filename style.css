@@ -3,6 +3,7 @@ body {
 }
 header {
     top: 0px;
+    position: fixed;
 }
 img {
     width: 500px;
