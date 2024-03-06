@@ -6,7 +6,7 @@
   <a href="#status">Status do  projeto</a> • 
   <a href="#started">Como acessar</a> • 
   <a href="#dev">Desenvolvedor</a> • 
-  <a href="#acredit">Créditos</a>
+  <a href="#credit">Créditos</a>
 </p>
 
 <p id="description" align="center" style="text-align:justify">
