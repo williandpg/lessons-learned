@@ -19,8 +19,8 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p id="layout-print" align="center">
-  <img src="../lessons-learned/img/lessons-learned.png" alt="Image Example" width="400px">
-  <img src="../lessons-learned/img/lessons-learned2.png" alt="Image Example" width="400px">
+  <img src="/img/lessons-learned.png" alt="Image Example" width="400px">
+  <img src="/img/lessons-learned2.png" alt="Image Example" width="400px">
 </p>
 
 <h2 id="tech">💻 Tecnologias Utilizadas</h2>
