@@ -10,6 +10,7 @@ body {
 header {
   top: 0%;
   position: fixed;
+  
 }
 
 img {
@@ -17,6 +18,18 @@ img {
   margin: 50px;
   padding: 20px;
   border: 10px solid black;
+  align-items: center;
+}
+
+a {
+  color: black;
+  font-size: 20px;
+  padding: 10px;
+}
+
+#conteudo {
+  display: flex;
+  justify-content: space-around;
 }
 
 .lado-esquerdo , .lado-direito {
